@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Лр4
+namespace lr4_vtvv
 {
     public delegate int[,] TakesAWhileDelegate(int row, int col);
     class Program
